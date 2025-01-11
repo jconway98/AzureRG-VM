@@ -1,1 +1,1 @@
-# Azure RG-VM
+# Azure Resource Group & Virtual Machine Setup

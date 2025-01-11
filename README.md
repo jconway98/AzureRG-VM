@@ -1,1 +1,1 @@
-# AzureRG-VM
+# Azure RG-VM

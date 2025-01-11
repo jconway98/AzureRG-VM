@@ -2,7 +2,7 @@
 
 # Azure Resource Group & Virtual Machine Setup
 
-This guide will show you how to create a resource group & virutal machine within Microsoft Azure.
+This guide will show you how to create a resource group & virtual machine within Microsoft Azure.
 
 ![image](https://github.com/user-attachments/assets/04961808-2cf6-4871-b80b-93a25e77c5ec)
 

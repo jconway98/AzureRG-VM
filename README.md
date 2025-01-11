@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/acdfdfcf-3dfe-4cae-b0da-1a44010a8895)
+
 # Azure Resource Group & Virtual Machine Setup
 
 This guide will show you how to create a resource group & virutal machine within Microsoft Azure.

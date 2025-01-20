@@ -3,6 +3,7 @@
 # Azure Resource Group & Virtual Machine Setup
 
 This guide will show you how to create a resource group & virtual machine within Microsoft Azure.
+Note: you will need an Azure account and subscription before you can proceed.
 
 ![image](https://github.com/user-attachments/assets/04961808-2cf6-4871-b80b-93a25e77c5ec)
 
